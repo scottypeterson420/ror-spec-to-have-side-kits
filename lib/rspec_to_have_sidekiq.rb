@@ -1,0 +1,2 @@
+module RSpecToHaveSidekiq
+end
